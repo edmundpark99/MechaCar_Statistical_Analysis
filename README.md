@@ -27,4 +27,7 @@ Looking at the T-test for suspension coils across all manufacturing lots, the p-
 
 ![T-Test Lot 1](https://user-images.githubusercontent.com/6594718/173257240-496cdbdb-5733-4e34-8794-2c858a64ede2.png)
 
-Looking at the T-test for suspension coils for Lot 1, the 
+Looking at the T-test for suspension coils for Lot 1, the p-value is 1, which is greater than 0.05. Thus, these results are not statistically different from the population mean of 1500. 
+
+![T-Test Lot 2](https://user-images.githubusercontent.com/6594718/173257314-73f01568-b2a7-4614-acc6-cd74414126e5.png)
+
