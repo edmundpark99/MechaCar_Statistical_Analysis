@@ -23,11 +23,15 @@ In terms of overall data regarding all three lots, the variance is around 62 pou
 
 ![T-Test Overall](https://user-images.githubusercontent.com/6594718/173257120-b266c9a0-6a12-4853-a753-6ab90da175ee.png)
 
-Looking at the T-test for suspension coils across all manufacturing lots, the p-value exceeds 0.05, and thus the results are not statistically significant enough to reject the null hypothesis, and thus the results do not notably differ from the overall population mean of 1500.
+Looking at the T-test results for suspension coils across all manufacturing lots, the p-value exceeds 0.05, and thus the results are not statistically significant enough to reject the null hypothesis, and thus the results do not notably differ from the overall population mean of 1500.
 
 ![T-Test Lot 1](https://user-images.githubusercontent.com/6594718/173257240-496cdbdb-5733-4e34-8794-2c858a64ede2.png)
 
-Looking at the T-test for suspension coils for Lot 1, the p-value is 1, which is greater than 0.05. Thus, these results are not statistically different from the population mean of 1500. 
+Looking at the T-test results for suspension coils for Lot 1, the p-value is 1, which is greater than 0.05. Thus, these results are not statistically different from the population mean of 1500. 
 
 ![T-Test Lot 2](https://user-images.githubusercontent.com/6594718/173257314-73f01568-b2a7-4614-acc6-cd74414126e5.png)
+
+Looking at the T-test results for suspension coils for Lot 2, the p-value is 0.6072, exceeding 0.05. Thus, these results are not statistically different from the population mean of 1500.
+
+![T-Test Lot 3](https://user-images.githubusercontent.com/6594718/173257444-b21b2f50-d43d-4edb-8485-f502e42e7e25.png)
 
