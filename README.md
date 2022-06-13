@@ -35,3 +35,21 @@ Looking at the T-test results for suspension coils for Lot 2, the p-value is 0.6
 
 ![T-Test Lot 3](https://user-images.githubusercontent.com/6594718/173257444-b21b2f50-d43d-4edb-8485-f502e42e7e25.png)
 
+Looking at the T-test results for suspension coils for Lot 3, the p-value is 0.04, less than 0.05. Thus, these results are in fact statistically different from the population mean of 1500.
+
+## Study Design: Mecha Car vs. Competition
+
+One feasible study that could be done to assess these Mecha Cars versus their competition is would be an ANOVA test. This would determine the distribution means of this sample and compare it to competitor samples in multitudes, thus giving multiple comparison bases to determine the viability of the performance of Mecha Cars relative to other vehicles from competitor manufacturers.
+
+Metrics:
+- Dependent variable: MPG (Gasoline Efficiency)
+- Independent variable: All-Wheel Drive
+- Independent variable: Price
+- Independent variable: Safety Feature Rating
+
+Null and Alternative Hypotheses:
+Null: Mecha Car performance is not more or less effective relative to other competitors
+Alternate: Mecha Car performance is more or less effective relative to other competitors
+
+What Data is Needed:
+We need prices of competitors, MPG of competitor vehicles, Safety ratings of competitors and Mecha Cars, and various other safety/performance ratings of competitor cars and Mecha Cars.
